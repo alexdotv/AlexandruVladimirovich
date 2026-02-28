@@ -5,7 +5,7 @@ Here I share my projects, architectural decisions, and applied experience.
 
 ## Education 📚
 
-* Technical University of Moldova (ongoing)
+* Technical University of Moldova
 
 ## Core Expertise 🧠
 
