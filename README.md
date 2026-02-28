@@ -1,24 +1,49 @@
-# Welcome to My GitHub Page! 🚀
+# Welcome to My GitHub Page 🚀
 
-Hello! I'm Adomnitei Alex, a frontend developer specializing in React. Welcome to my personal GitHub page, where I share my experience and projects.
+Hello! I'm **Adomnitei Alex**, a full-stack developer focused on building scalable and production-ready systems.
+Here I share my projects, architectural decisions, and applied experience.
 
 ## Education 📚
 
-- Currently pursuing a degree at Technical University of Moldova.
+* Technical University of Moldova (ongoing)
 
-## Skills 🛠️
+## Core Expertise 🧠
 
-- **Programming Languages:** JavaScript (ES6+), HTML, CSS/SASS.
-- **Libraries and Frameworks:** React.
-- **Development Tools:** Git, VS Code, etc.
+* Designing and developing full-stack applications
+* Building ERP systems and internal business platforms
+* Developing AI agents and automation workflows
+* Backend architecture and system integration
+
+## Tech Stack 🛠️
+
+**Backend:**
+
+* Node.js
+* PostgreSQL
+* Redis
+* RabbitMQ
+
+**Frontend:**
+
+* React.js
+* Next.js
+* 
+**Tools & Infrastructure:**
+
+* Git
+* REST APIs
+* Modular architecture
+* Background job processing
+* Caching strategies
+
+## Selected Experience 💼
+
+* Developed ERP systems with role-based access and complex business logic
+* Implemented asynchronous processing with RabbitMQ
+* Designed database schemas and optimized PostgreSQL queries
+* Built AI-driven agents for workflow automation and data processing
 
 ## Contact 📬
 
-- 📧 Email: Alexdotv@gmail.com
-- 💬 LinkedIn: www.linkedin.com/in/alexandru-adomnitei-1844272a7
-
-## Acknowledgments 🙌
-
-Thank you for visiting my GitHub page. Feel free to explore my projects and reach out if you have any questions or suggestions for improvement.
-
-Thanks for stopping by! 👋
+* Email: [Alexdotv@gmail.com](mailto:Alexdotv@gmail.com)
+* LinkedIn: [www.linkedin.com/in/alexandru-adomnitei-1844272a7](http://www.linkedin.com/in/alexandru-adomnitei-1844272a7)
